@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Laikipia University</string>
+    <string name="signin">Sign in to account</string>
+    <string name="signup">Sign up for account</string>
+    <string name="signup2">Sign me up !</string>
+
+
+    <string name="banner_portal">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_chatroom">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_flappy_bird">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_balloon">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_catchtheball">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_portal">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_chatroom">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_game1">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_flappy_bird">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_balloon">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="rewarded_video_game_1">ca-app-pub-3940256099942544/5224354917</string>
+
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+
+    <string name="instructions">Uncover two matching cards at once\nto eliminate them from the game.\nBeware of the timer, the less the time you take the more you score\nbut make sure to finish before timer runs out.</string>
+
+
+    <string name="history">""\t"Historical Background\t
+The University has a unique history that has evolved through different educational phases. It was started in April 1929 by a British Colonial farmer cum educationist by the name William Thomas Alfred Levet.
+
+The Institution was by then a whites’ only primary school with a large farm, which was sold to Guy Bullen in February 1959. Mr. Bullen sold it to Ministry of Agriculture in 1965. Between 1965 and 1970, the Institution served as a Large–scale Farmers training (LSFTC) college.
+
+The LSFTC was administered by the Ministry of Agriculture and Animal Husbandry. In October 1979, it was converted into a Animal Husbandry and Industry Training Institute (AHITI) offering a two year course leading to a Certificate in Animal Health. From 1988 to 1990, this operated as a Diploma Science Teacher’s college under Ministry of Education after which it was taken over by Egerton University on 1st July 1990 as a campus. It remained a campus of Egerton University between 1990 till 2010 majoring in BEd Arts and BA corses. In 2011 it became a constituent University College of Egerton University until 19th February 2013 when it became a fully fledged University.
+."\n""\n""\t"
+Laikipia University was established as a Campus of Egerton University. This followed the recommendations of a Government Committee appointed to look into modalities of absorbing a double intake of “O” level and “A” level students from Secondary Schools. It was meant to offer Education courses for graduate teacher-training. Since then, the University has grown in student numbers and staff and now offers additional academic programmes. In view of its growth, the increased demand for university education and in response to the community, the LUC – Council appointed an Academic Board Committee on upgrading Laikipia Campus to a University status.
+
+Since August 2005, several Stakeholder Workshops have been held between the Upgrading Committee and community leaders to sensitize the community on the need to partner and collaborate with the University in higher education management and delivery of services. It was observed that the University would establish satellite campuses in Maralal, Isiolo, Nyahururu and Nanyuki as learning centres for various tailor made programmes. The District Education Board (Laikipia District) was also informed about the plans to upgrade the Campus into a constituent  of Egerton University.
+
+Laikipia University was awarded Charter on 19th February 2013  by the then President Commander in Chief of the Defence Forces of the Republic of Kenya; his Excellency Hon. Mwai Kibaki E.G.H., This made the institution a fully-fledged University."\n""\n""\t""\n""\n""\t" </string>
+    <string name="me">Peter is a Laikipia University Computer Science student who designs Classic websites and develops mobile applications</string>
+
+    <string name="kib"><u>LAIKIPIA UNIVERSITY </u></string>
+    <string name="university_email">info@Laikipia.ac.ke</string>
+    <string name="university_address">P. O. BOX 190-50100, Nyahururu</string>
+    <string name="terms">1.Our  mission is to share and grow University knowledge\n 2.This is unofficial app developed by independent developer ,however your information is safe with us \n 3You are responsible for the content you post.\n4.We do not verify information posted by the user \n<b> * By accepting or using our services you agree to be bound by these terms.If you disagree with any part of terms then you may not access the service</b> </string>
+
+    <string name="level_label">Level:&#160;</string>
+    <string name="score_label">Score:&#160;</string>
+    <string name="play_game">Play game</string>
+    <string name="start_game">Start game</string>
+    <string name="finish_level">You finished level&#160;</string>
+    <string name="level_start">Start level</string>
+    <string name="game_instructions">The goal of the game is to pop as many balloons as possible before they escape. At the beginning of the game, you have five lives. After each level, the number of balloons increases as well as the speed they appear. So test your reflexes to see how fast you are :)</string>
+    <string name="copyright" translatable="false">Pop Balloon © 2019</string>
+    <string name="high_score" translatable="false">0</string>
+    <string name="high_score_label">High score:&#160;</string>
+    <string name="game_over">Game over!</string>
+    <string name="new_high_score_title">New High Score!</string>
+    <string name="new_high_score_message">Your new high score is:&#160;</string>
+    <string name="signed_in">Signed in!</string>
+    <string name="invite_friends">Share</string>
+    <string name="level" translatable="false">0</string>
+    <string name="game_life" translatable="false">Game life</string>
+    <string name="back_button" translatable="false">Back</string>
+    <string name="sound" translatable="false">Sound</string>
+    <string name="music" translatable="false">Music</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="leaderboard" translatable="false">Leaderboard</string>
+    <string name="achievements" translatable="false">Achievements</string>
+    <string name="invite_title" translatable="false">Pop Balloon</string>
+    <string name="invite_message" translatable="false">Come and try Pop Balloon Android game!</string>
+    <string name="invite_action" translatable="false">Join me!</string>
+    <string name="dynamic_link_fail" translatable="false">Dynamic link fail!</string>
+    <string name="assertion_message" translatable="false">Expected 1 param for current level</string>
+    <string name="dynamic_link" translatable="false">https://balloon.page.link/pop_up_balloon</string>
+    <string name="email_cover" translatable="false">https://img.grouponcdn.com/deal/7BQdtgZJ6jHiQ5mPPMWH/m2-737x442/v1/c700x420.jpg</string>
+
+</resources>
+
+
+    <!--<string name="banner_portal">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner_chatroom">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial_portal">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="interstitial_chatroom">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+

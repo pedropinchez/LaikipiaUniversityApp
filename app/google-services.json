@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010375880069",
+    "firebase_url": "https://laikipiauniversityapp.firebaseio.com",
+    "project_id": "laikipiauniversityapp",
+    "storage_bucket": "laikipiauniversityapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010375880069:android:b6c73ffe86b2efbc74a8ec",
+        "android_client_info": {
+          "package_name": "com.example.laikipiauniversityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010375880069-mg58d7q1bvdu7t921kg4c4c1mss4g4gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laikipiauniversityapp",
+            "certificate_hash": "572a7eaf74e74cb6e58bbc8b50bf7cc804d5abfb"
+          }
+        },
+        {
+          "client_id": "1010375880069-77crc4oftf3i5ceeic8o08kkpnbve7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60k__55vrNzg5EkhFujhetk3_pGC8WIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010375880069-77crc4oftf3i5ceeic8o08kkpnbve7g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
